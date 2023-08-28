@@ -1,0 +1,5 @@
+print("---- FIND COST OF TILE TO COVER YOUR FLOOR ----")
+w = float(input("Enter length of the Floor: "))
+h = float(input("Enter width of the Floor: "))
+c = float(input("Enter cost of tile per square unit: "))
+print(f'\nTotal Area = {round(w*h,2)}\nCost of Tile per square unit = {round(c,2)}\nTotal cost to cover {round(w*h,2)} square units = {round(w*h*c,2)}')

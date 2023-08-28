@@ -1,0 +1,1 @@
+This is a Demo .txt file. I am Chirag Gulati and I'm trying to use the EOF to print this string in my program.

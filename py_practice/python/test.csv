@@ -1,0 +1,6 @@
+(lane = 0, state = 'EYE_FOUND', L = 11, R = 46, TL =176, BL = -166, TR = 162, BR = -154, W2H_Score = 23760, mV_UI_score = 185)
+(lane = 1, state = 'EYE_FOUND', L = 12, R = 47, TL =135, BL = -135, TR = 133, BR = -126, W2H_Score = 19116, mV_UI_score = 149)
+(lane = 2, state = 'EYE_FOUND', L = 12, R = 47, TL =168, BL = -158, TR = 176, BR = -167, W2H_Score = 24156, mV_UI_score = 188)
+(lane = 3, state = 'EYE_FOUND', L = 13, R = 45, TL =146, BL = -128, TR = 160, BR = -137, W2H_Score = 18909, mV_UI_score = 147)
+(lane = 4, state = 'EYE_FOD', L = 12, R = 47, TL =168, BL = -158, TR = 176, BR = -167, W2H_Score = 24156, mV_UI_score = 188)
+(lane = 5, state = 'EYE_NOT_FOUND', L = 12, R = 47, TL =168, BL = -158, TR = 176, BR = -167, W2H_Score = 24156, mV_UI_score = 188)
