@@ -1,3 +1,5 @@
+// Rearrange an array such that arr[i] = i
+
 #include <iostream>
 using namespace std;
 
